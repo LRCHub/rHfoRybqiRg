@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "おべんきょうたいむ",
   "base_artist": "litmus*",
-  "createdAt": "2026-03-29T14:41:32.223451Z",
+  "createdAt": "2026-03-30T02:15:23.235035Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "litmus*",
       "has_synced": false,
       "path": "select/pl_01_おべんきょうたいむ_(feat._足立レイ)_litmus.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "おべんきょうたいむ",
+      "artist": "litmus*",
+      "has_synced": false,
+      "path": "select/localdb_01_おべんきょうたいむ_litmus.txt",
+      "repo_name": "rHfoRybqiRg"
     }
   ]
 }
